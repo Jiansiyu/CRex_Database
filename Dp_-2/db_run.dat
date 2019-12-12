@@ -1,1 +1,18 @@
-../DB_CREX/db_run.dat
+# For CREX data
+
+--------[ 2010-01-02 01:00:00 ]
+
+ebeam     = 2.17615
+L.theta   = 4.7469
+R.theta   = -4.7572
+L.pcentral= 2.1412
+R.pcentral= 2.1447
+
+
+# for tune A
+# L.vdc.config = prex
+# R.vdc.config = prex
+
+# for tune B
+#L.vdc.config = prex-alt
+#R.vdc.config = prex-alt
